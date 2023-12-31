@@ -1,0 +1,10 @@
+{
+	"components": {
+		"cookieBar": {
+			"cookieConsent": {
+				"description": "Diese Website verwendet Cookies, um die Benutzererfahrung zu verbessern.",
+				"linkText": "Hier erfährst du welche"
+			}
+		}
+	}
+}
