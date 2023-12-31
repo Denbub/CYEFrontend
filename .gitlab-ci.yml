@@ -1,0 +1,52 @@
+stages:
+  - build
+  - deploy
+
+Build images:
+  stage: build
+  variables:
+    DOCKER_REGISTRY: 995148510543.dkr.ecr.eu-central-1.amazonaws.com
+    DOCKER_HOST: tcp://docker:2375
+  only:
+    - main
+  image:
+    name: amazon/aws-cli
+    entrypoint: [""]
+  services:
+    - docker:dind
+  before_script:
+    - amazon-linux-extras install docker
+    - curl --silent -L https://github.com/docker/buildx/releases/download/v0.5.1/buildx-v0.5.1.linux-amd64 -o buildx-v0.5.1.linux-amd64
+    - chmod a+x buildx-v0.5.1.linux-amd64
+    - mkdir -p ~/.docker/cli-plugins
+    - mv buildx-v0.5.1.linux-amd64 ~/.docker/cli-plugins/docker-buildx
+    - aws ecr get-login-password | docker login --username AWS --password-stdin $DOCKER_REGISTRY
+  script:
+    - echo "Build images"
+    - docker buildx create --use
+    - docker buildx build -t $DOCKER_REGISTRY/strudle/cye-nextjs-frontend/frontend:develop
+      --cache-from=$DOCKER_REGISTRY/strudle/cye-nextjs-frontend/frontend:develop
+      --cache-to=type=inline
+      -f build/frontend/Dockerfile --load .
+    - docker tag $DOCKER_REGISTRY/strudle/cye-nextjs-frontend/frontend:develop $DOCKER_REGISTRY/strudle/cye-nextjs-frontend/frontend:develop-$CI_COMMIT_SHORT_SHA
+    - docker push $DOCKER_REGISTRY/strudle/cye-nextjs-frontend/frontend:develop-$CI_COMMIT_SHORT_SHA
+    - docker push $DOCKER_REGISTRY/strudle/cye-nextjs-frontend/frontend:develop
+
+Deploy:
+  stage: deploy
+  services:
+    - docker:dind
+  only:
+    - main
+  variables:
+    IMAGE_TAG: develop-$CI_COMMIT_SHORT_SHA
+  image: docker:20.10.17-dind
+  before_script:
+    - docker login -u $CI_REGISTRY_USER -p $CI_REGISTRY_PASSWORD $CI_REGISTRY
+  script:
+    - echo "Build image"
+    - docker pull $CI_REGISTRY/strudle/cye-nextjs-frontend:develop 2> /dev/null || true
+    - docker build -t $CI_REGISTRY/strudle/cye-nextjs-frontend:develop --cache-from=$CI_REGISTRY/strudle/cye-nextjs-frontend:develop -f build/deploy/Dockerfile .
+    - docker push $CI_REGISTRY/strudle/cye-nextjs-frontend:develop
+    - echo "Deploy"
+    - docker run -e AWS_ACCESS_KEY_ID -e AWS_SECRET_ACCESS_KEY -e TF_VAR_imageTag=$IMAGE_TAG -e TF_VAR_bingsMapApi=$BINGS_MAP_API_KEY_STAGING -e TF_VAR_googleMapApi=$GOOGLE_MAP_API $CI_REGISTRY/strudle/cye-nextjs-frontend:develop
