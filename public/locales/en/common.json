@@ -1,0 +1,442 @@
+{
+	"registrationForm": {
+		"title": "Jetzt kostenlos registrieren",
+		"accountExist": "Sie haben bereits einen Account?",
+		"login": "Log in",
+		"enterSystem": "Anmelden mit",
+		"continue": "oder weiter mit",
+		"fields": {
+			"email": {
+				"label": "E-Mail",
+				"placeholder": "Ihre E-Mail..."
+			},
+			"code": {
+				"label": "Code",
+				"placeholder": "Code eingeben"
+			},
+			"dataProtectionInformation": {
+				"error": "Bitte akzeptiere die Allgemeinen Geschäftsbedingungen.",
+				"label": "Ich möchte für die künftige Nutzung von CLICK YOUR EVENT ein Benutzerkonto anlegen und bitte um die Erhebung und Verarbeitung meiner E-Mail Adresse in die Datenbank von CLICK YOUR EVENT ({{link}}).",
+				"linkText": "Datenschutzhinweise"
+			},
+			"termsAndConditions": {
+				"error": "Bitte akzeptiere die Allgemeinen Geschäftsbedingungen.",
+				"label": "Die {{link}} von CLICK YOUR EVENT habe ich gelesen, verstanden und bin mit deren Geltung einverstanden.",
+				"linkText": "AGB"
+			}
+		},
+		"description": "Wir senden Dir einen Code zur Bestätigung Deiner E-Mail-Adresse.",
+		"error": {
+			"USER_EXITS": "Es existiert Nutzer mit der angegebenen Email.",
+			"DPIAndTAC": "Bitte akzeptiere die Datenschutzhinweise und die allgemeinen Geschäftsbedinungen."
+		},
+		"signInWith": "Sign in with"
+	},
+	"codeForm": {
+		"title": "Hallo,",
+		"description": "Bitte gib Deinen 6-stelligen Code ein, den Du per E-Mail erhalten hast.",
+		"fields": {
+			"code": {
+				"label": "Code",
+				"placeholder": "Bitte geben Sie ihren Code ein..."
+			}
+		},
+		"resubmitFirst": "Ich habe keinen Code erhalten? ",
+		"resubmitSecond": "Sende mir nochmal einen Code!",
+		"rememberOnDevice": "Auf diesem Gerät merken. ",
+		"unconfirmedSignUp": "Ihre E-Mail ist unbestätigt. Bitte bestätigen Sie Ihre E-Mail und melden Sie sich dann an",
+		"button": {
+			"send": "Senden"
+		}
+	},
+	"loginForm": {
+		"title": "Willkommen,",
+		"description": "zu Deinem All-in-One Eventplanner! Gib Deine E-Mail-Adresse ein, um Dich in Dein CLICK YOUR EVENT Benutzerkonto einzuloggen",
+		"emailConfirmed": "Ihre E-Mail ist bestätigt.",
+		"accountNonExist": "Du noch keinen Account?",
+		"registration": "Du noch keinen Account? Registrieren",
+		"fields": {
+			"email": {
+				"label": "E-Mail",
+				"placeholder": "Bitte geben Sie ihre E-Mail ein...",
+				"error": " muss eine gültige E-Mail-Adresse sein"
+			}
+		},
+		"error": {
+			"errorToast": "Ups, falsche Zugangsdaten! Oder hast deine E-Mail noch nicht bestätigt.",
+			"USER_DOES_NOT_EXIT": "Es existiert kein Nutzer mit der angegebenen Email."
+		}
+	},
+	"welcomeForm": {
+		"title": "Willkommen!",
+		"description": "Bitte registriere Dich mit deiner Firma / Einzelunternehmen bei unserem Partner Stripe. Hierdurch können deine Dokumente geprüft werden und Du als Dienstleister auf unserer Plattform zugelassen werden.",
+		"eventButton": {
+			"title": "Event planen",
+			"subtitle": "Ich möchte einen Event planen.",
+			"item1": "Hochzeit",
+			"item2": "Firmenfeiter"
+		},
+		"serviceButton": {
+			"title": "Service anbieten",
+			"subtitle": "Ich möchte meinen Service anbieten.",
+			"item1": "Location",
+			"item2": "Dekoration"
+		}
+	},
+	"index": {
+		"head": {
+			"title": "Strudle.io",
+			"metaDescription": "Strudle is a user-centered multimedia and service agency from vienna. Our expertise lies in the areas of technology, design and new work. Focusing on development, mentoring and coaching."
+		}
+	},
+	"service": {
+		"header": {
+			"modal": {
+				"bgImageTitle": "Hintergrundbild bearbeiten",
+				"imageTitle": "Profilfoto",
+				"fileInput": "Foto hinzufügen"
+			},
+			"descriptionModal": {
+				"title": "Anbieter",
+				"name": "Name",
+				"description": "Kurzbeschreibung"
+			},
+			"price": "Ab {{price}} €/Std.",
+			"activeServices": "{{activeServices}} Services aktiv"
+		},
+		"socialMedia": {
+			"title": "Social Media Kanäle",
+			"additionalDropdown": "Weiterer Social Media Kanal"
+		},
+		"imageGallery": {
+			"deleteModal": "Bist du dir sicher, dass du dieses Foto löschen möchtest?",
+			"addModalTitle": "Servicefoto",
+			"addPhoto": "Foto hinzufügen",
+			"changeImage": "Bild ändern"
+		},
+		"team": {
+			"name": "Name",
+			"position": "Position",
+			"summary": "Kurzbeschreibung",
+			"delete": "Delete member",
+			"add": "+ Hinzufügen",
+			"title": "Unser Team"
+		},
+		"configurationForm": {
+			"price": "Preis:",
+			"amountOfGuests": "Anzahl der Gäste:",
+			"booking": "Buchung",
+			"edit": "Ändern",
+			"guests": "Anzahl der Gäste:",
+			"capacity": "Personen",
+			"availability": "Verfügbarkeit",
+			"pricePerDay": "{{price}}€/Tag",
+			"capacityValue": "{{capacity}} Personen"
+		},
+		"calendar": {
+			"title": "Calendar",
+			"periodButton": "Add period",
+			"rangeError": "Diese Zeitperiode hat eine Überschneidung mit einer Zeitperiode, welche schon ausgewählt wurde. Bitte nehme für die neue Zeitperiode nur neue Daten hinzu!",
+			"period": "Period",
+			"booked": "Booked"
+		},
+		"delete": {
+			"title": "Service löschen",
+			"description": "Möchten Sie dieses Service wirklich löschen?"
+		}
+	},
+	"services": {
+		"benefits": {
+			"title": "Deine Vorteile Clickyourevent zu nutzen"
+		}
+	},
+	"footer": {
+		"copyrights": "Copyright © 2023. All rights reserved."
+	},
+	"saveButton": {
+		"text": "Save"
+	},
+	"deleteButton": {
+		"text": "Löschen"
+	},
+	"cancellButton": {
+		"text": "Abbrechen"
+	},
+	"editButton": {
+		"text": "Vorschau / Bearbeiten"
+	},
+	"nextButton": {
+		"text": "Next"
+	},
+	"backButton": {
+		"text": "Back"
+	},
+	"sendButton": {
+		"text": "Send"
+	},
+	"openServiceButton": {
+		"text": "zur Profilseite"
+	},
+	"openProfile": {
+		"text": "Profile"
+	},
+	"serviceAddButton": {
+		"text": "Service hinzufügen"
+	},
+	"select": {
+		"noOptions": "keine Option"
+	},
+	"errors": {
+		"required": {
+			"text": "Dieses Feld ist ein Pflichtfeld.",
+			"link": "Not link format"
+		},
+		"invalidPhone": "Invalid phone number, use following format +491234567890.",
+		"maxChars": "Must be {{max}} characters or less",
+		"noDecimal": "Please enter a whole number"
+	},
+	"notification": {
+		"safariVersion": {
+			"text": "Du bist bereit dein Profil anzulegen? Dein Browser leider noch nicht. Bitte installiere die neueste Version von Safari oder nutze einen anderen Browser."
+		},
+		"beta": {
+			"text": "Willkommen bei unserer Beta Phase. Es kann sein, dass du auf einen Fehler stoßt oder etwas vermisst, bitte teile uns das gerne mit über die Community oder {{link}}",
+			"link": "hello@clickyourevent.com"
+		}
+	},
+	"info": {
+		"maximumCharacters": "Maximum {{number}} characters"
+	},
+	"companyRegistration": {
+		"registration": {
+			"title": "Wir brauchen folgende folgende Informationen",
+			"subTitle": "Gib Deine Unternehmensdaten ein",
+			"caption": "Nur zeichnungsberechtigte Person"
+		},
+		"onboarding": {
+			"title": "Unternehmensverifizierung",
+			"subTitle": "Wir haben hohe Qualitätsstandards.",
+			"caption": "Du sicher auch.",
+			"description": "Deshalb nimm dir bitte 10-15 Minuten Zeit um dein Profil zu verifizieren.",
+			"button": "Unternehmen verifizieren"
+		},
+		"final": {
+			"title": "Danke!",
+			"subTitle": "Wir freuen uns dich an Board zu haben.",
+			"description": "Füge schon jetzt deine Dienstleistungen hinzu!",
+			"button": "Dienstleistungen hinzufügen"
+		},
+		"fields": {
+			"name": "Vorname",
+			"lastName": "Nachname",
+			"country": "Land",
+			"companyName": "Firmenname",
+			"email": "Geschäftliche E-Mail",
+			"phone": "Geschäftliche Telefonnummer"
+		},
+		"progress": "Fortschritt"
+	},
+	"mainService": "Main service",
+	"serviceAdd": {
+		"categories": {
+			"title": "Füge Deine Dienstleistung hinzu ",
+			"subTitle": "Wähle Dein Hauptservice",
+			"noneMainService": "Ich möchte keinen Main Service anbieten, stattdessen nur mein  Geschäftsprofil anlegen.",
+			"fields": {
+				"service": "Category Service",
+				"serviceLabel": "Choose your service"
+			}
+		},
+		"categoryAttributes": {
+			"title": "Bietest du auch weitere Services an?"
+		},
+		"CompanyDescription": {
+			"title": "Name & short description ",
+			"fields": {
+				"shortTitle": "Name",
+				"shortDescrition": "Short Description"
+			}
+		},
+		"ServiceDescription": {
+			"title": "Long description",
+			"fields": {
+				"name": "Servicename (optional)",
+				"nameRequired": "Servicename *",
+				"ServiceDescription": "Long Description"
+			}
+		},
+		"eventTypes": {
+			"title": "Für welche Events bietest du deinen Service an?"
+		},
+		"gallery": {
+			"title": "Füge Fotos von deinen Services hinzu",
+			"subTitle": "Hochladen von deinem Gerät."
+		},
+		"address": {
+			"title": "Füge deine Adresse hinzu oder gib deinen Standort auf der Karte ein.",
+			"fields": {
+				"address": "Deine Adresse angeben.",
+				"radius": "Radius"
+			}
+		},
+		"final": {
+			"title": "Danke!",
+			"description": "Füge schon jetzt deine Dienstleistungen hinzu"
+		}
+	},
+	"header": {
+		"registrationButton": "Registrieren",
+		"loginButton": "Login",
+		"communityButton": "Community",
+		"addServiceButton": "Weitere Services hinzufügen"
+	},
+	"readMore": "Read more",
+	"readLess": "Read less",
+	"subservices": "Weitere Services",
+	"watchNow": "Watch now",
+	"404": {
+		"text": "Hoppla! Etwas ist schiefgelaufen! Die angeforderte Seite kann nicht gefunden werden. Bitte überprüfe die URL oder gehen zurück zur Homepage, um zu finden, wonach du suchst.",
+		"button": "Zur Startseite"
+	},
+	"search": {
+		"searchButton": "Suchen",
+		"fields": {
+			"categories": "Kategorie auswählen",
+			"services": "Service auswählen",
+			"location": "Ort, Region"
+		},
+		"showMore": "Show more",
+		"showLess": "Show less",
+		"hideMap": "Karte verstecken"
+	},
+	"progress": "Fortschritt",
+	"drawer": {
+		"profile": {
+			"title": "Profile"
+		},
+		"button": {
+			"edit": "Bearbeiten",
+			"abort": "Abbrechen",
+			"save": "Speichern",
+			"remove": "Löschen"
+		},
+		"company": {
+			"title": "Unternehmen",
+			"form": {
+				"name": "Name",
+				"namePlaceholder": "Namen eingeben",
+				"description": "Beschreibung",
+				"descriptionPlaceholder": "Here is some description...",
+				"linkPlaceholder": "Link eingeben",
+				"videoYoutube": "Video YouTube",
+				"videoVimeo": "Video Vimeo"
+			},
+			"edit": "Bearbeiten",
+			"abort": "Abbrechen",
+			"avatar": {
+				"add": "Avatar hinzufügen"
+			}
+		},
+		"team": {
+			"title": "Team",
+			"titleSocialMedia": "Social Media",
+			"addMember": "Team hinzufügen",
+			"removeMember": "Löschen",
+			"memberPhoto": "Mitgliedsfoto",
+			"modal": {
+				"removeMemberHeader": "Teammitglied löschen",
+				"removeMemberDescription": "Möchten Sie dieses Teammitglied wirklich löschen?"
+			},
+			"firstName": {
+				"label": "Vorname",
+				"placeholder": "Vorname eingeben"
+			},
+			"lastName": {
+				"label": "Nachname",
+				"placeholder": "Nachname eingeben"
+			},
+			"role": {
+				"label": "Rolle",
+				"placeholder": "Rolle auswählen"
+			},
+			"summary": {
+				"label": "Bio",
+				"placeholder": "Bio hinzufügn"
+			}
+		},
+		"socialMedia": {
+			"title": "Kontakt",
+			"button": {
+				"add": "Link hinzufügen"
+			},
+			"type": {
+				"label": "Typ",
+				"placeholder": "Kontakt auswählen"
+			},
+			"value": {
+				"label": "Username",
+				"placeholder": "Profilnamen eingeben",
+				"placeholderContact": "Username eingeben"
+			}
+		},
+		"modalImage": {
+			"addPhoto": "Foto hinzufügen",
+			"changePhoto": "Foto ändern",
+			"deletePhoto": "Foto löschen",
+			"savePhoto": "Foto speichern"
+		},
+		"documents": {
+			"title": "Datenschutz, Widerspruchsrecht, Impressum",
+			"dataProtect": {
+				"label": "Datenschutz",
+				"placeholder": "Datenschutz hinzufügen"
+			},
+			"rightToObject": {
+				"label": "Widerspruchsrecht",
+				"placeholder": "Widerspuchsrecht hinzufügen"
+			},
+			"imprint": {
+				"label": "Impressum",
+				"placeholder": "Impressum hinzufügen"
+			},
+			"AGB": {
+				"label": "AGB"
+			},
+			"modalDelete": {
+				"header": "Datei löschen",
+				"description": "Möchten Sie dieses Datei wirklich löschen?"
+			}
+		},
+		"deleteAccount": {
+			"sliderTitle": "Account löschen",
+			"title": "Möchen Sie Ihren Account löschen?",
+			"description": "Ein Hinweis auf die Auswirkungen der Aktion für den User.",
+			"buttonDelete": "Löschen",
+			"modal": {
+				"title": "Account löschen",
+				"description": "Möchten Sie Ihren Account wirklich löschen?",
+				"button": {
+					"yes": "Ja",
+					"no": "Nein"
+				}
+			}
+		},
+		"location": {
+			"title": "Location",
+			"name": {
+				"label": "Name/Titel",
+				"placeholder": "Namen eingeben"
+			},
+			"address": {
+				"label": "Addresse",
+				"placeholder": "Adresse suchen"
+			},
+			"description": {
+				"label": "Beschreibung",
+				"placeholder": "Beschreibung hinzufügen"
+			}
+		}
+	},
+	"report": "Dieses Profil melden",
+	"radius": "Radius"
+}

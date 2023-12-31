@@ -1,0 +1,37 @@
+{
+	"main": {
+		"intro": {
+			"text": "geboren in Wien für zeitgenössische Ideen"
+		},
+		"weAre": {
+			"title": "WIR SIND",
+			"text1": "ein Kollektiv und ein hybrides Team aus internationalen ExpertInnen. Wir sind eine nutzerzentrierte Multimedia- Agentur. Bei uns finden Business, New Work und Agile Coaches, IT-Entwickler, Art Director uvm. zusammen.",
+			"text2": "Wir konzentrieren uns darauf Unternehmen, Teams und Einzelpersonen bei ihrer (Re-)Organisation und  (Um-)Gestaltung zu unterstützen, um den heutigen komplexen Anforderung gerecht zu werden.",
+			"text3": "Unsere Expertise liegt in den Bereichen Technologie, Design und New Work. Mit dem Schwerpunkt auf Entwicklung, Mentoring und Coaching."
+		},
+		"ourDrive": {
+			"title": "UNSER ANTRIEB",
+			"text": "Wir glauben es gibt viele Wege Transformation und Innovation zu begegnen.",
+			"text1": "Und diese Wege fühlen sich manchmal an wie ein Labyrinth. Wir wissen das, denn gefunden haben wir uns durch ein Projekt, bei dem wir uns des öfteren auf unserem Weg verloren oder überfordert gefühlt haben. Die emotionale Achterbahnfahrt war dabei ebenso Teil, wie auch die Freude und Glücksmomente etwas erreicht zu haben.",
+			"text2": "Aber auch wir haben gemerkt, dass die konstante Arbeit als Team an einem Projekt eine Probe ist. Schließlich gilt es die eigenen Interessen zu vertreten, aber auch als Kollektiv zu funktionieren. Das braucht Kraft.",
+			"text3": "Unser Weg war es mit unseren Emotionen zu arbeiten und durch Kommunikation und dem gezielten Einsatz von Methoden mehr und mehr Klarheit zu erlangen. Auch externe Hilfe in Form von Coaching und Facilitation in Anspruch zu nehmen war ein wichtiger Faktor. So war die notwendige Kraft vorhanden, das gelernte in unseren Arbeitsalltag einzuarbeiten."
+		},
+		"benefits": {
+			"text1": "We focus on supporting companies, teams\nand individuals with their (re)organization\nand (re)design to meet todays complex\nrequirements.",
+			"text2": "Our particular expertise is in technology,\ndesign, New Work approaches and\ncoaching.",
+			"text3": "If you're ready to make a change, we'd be\nhappy to help. And if you're not quite ready\nyet, we hope you'll stay in touch with us as\nwe continue on this continuous journey."
+		},
+		"ourServices": {
+			"title": "UNSER\nANGEBOT ",
+			"services": "*UI/UX.*Visuelle Kommunikation.*Art Direction.*New Work.*Transformationsbegleitung.*Inner Work.*Coaching.*Mentoring.*Facilitation.*Agilität.*Front-End*Development.*Backend Development.*Testing.*Beratung.*2D Animation.*Streaming.*Web Design.*"
+		},
+		"aboutUs": {
+			"title": "who are we ?",
+			"text": "Strudle is a user-centered multimedia and\nservice agency based in Vienna. We are a\nhybrid team of international experts. This\nalso allows us to optimize the approach as\nwe live in it on a daily basis."
+		},
+		"contactUs": {
+			"title": "contact us",
+			"text": "Wenn du bereit für Veränderung bist, helfen wir dir gerne dabei. Wenn noch nicht, würden wir uns freuen, wenn du uns auf unserer Reise durch unser kontinuierliches Universum folgst."
+		}
+	}
+}
