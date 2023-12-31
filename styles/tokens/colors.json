@@ -1,0 +1,2322 @@
+{
+	"theme-accent-default": {
+		"value": "rgb(229, 5, 5)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640af7b640ee3f7af8725d13",
+				"type": "Color"
+			}
+		}
+	},
+	"colors-grey-950": {
+		"value": "rgb(31, 31, 31)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640af7b795d6627be19a5f47",
+				"type": "Color"
+			}
+		}
+	},
+	"theme-input-border-default": {
+		"value": "rgb(224, 224, 224)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640af7b9c65f8c10598cbb56",
+				"type": "Color"
+			}
+		}
+	},
+	"theme-fg-on-dark": {
+		"value": "rgb(255, 255, 255)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640af7b97035417bf10d9722",
+				"type": "Color"
+			}
+		}
+	},
+	"theme-fg-on-accent": {
+		"value": "rgb(255, 255, 255)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640af7ba86e0aa7b031514a7",
+				"type": "Color"
+			}
+		}
+	},
+	"fg-muted": {
+		"value": "rgb(97, 97, 97)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640af7bac90fa17aa3ef23a1",
+				"type": "Color"
+			}
+		}
+	},
+	"theme-bg-surface": {
+		"value": "rgb(255, 255, 255)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640af7bb9f835c7bc2f913d4",
+				"type": "Color"
+			}
+		}
+	},
+	"theme-fg-default": {
+		"value": "rgb(23, 23, 23)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640af7bb4535830ef1cd5349",
+				"type": "Color"
+			}
+		}
+	},
+	"theme-input-placeholder": {
+		"value": "rgb(158, 158, 158)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640af7bcfdfbe97b680c0968",
+				"type": "Color"
+			}
+		}
+	},
+	"theme-input-background": {
+		"value": "rgb(255, 255, 255)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640af7bccc52657ab43c5d48",
+				"type": "Color"
+			}
+		}
+	},
+	"theme-bg-canvas": {
+		"value": "rgb(252, 252, 252)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640af7be11bf4a0e79ac99be",
+				"type": "Color"
+			}
+		}
+	},
+	"colors-white": {
+		"value": "rgb(255, 255, 255)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afa105916030f8fc11576",
+				"type": "Color"
+			}
+		}
+	},
+	"theme-fg-subtle": {
+		"value": "rgb(158, 158, 158)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afa1038ef057b471d5c55",
+				"type": "Color"
+			}
+		}
+	},
+	"theme-border-default": {
+		"value": "rgb(238, 238, 238)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afa11d7ffa70fa2d2cee4",
+				"type": "Color"
+			}
+		}
+	},
+	"theme-accent-muted": {
+		"value": "rgb(250, 25, 25)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbdd0dfd7e7b024b1996",
+				"type": "Color"
+			}
+		}
+	},
+	"theme-accent-subtle": {
+		"value": "rgb(253, 165, 165)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbdd38ef057b471d7da4",
+				"type": "Color"
+			}
+		}
+	},
+	"theme-accent-emphasis": {
+		"value": "rgb(174, 4, 4)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbde7035417bf10e2d3a",
+				"type": "Color"
+			}
+		}
+	},
+	"theme-accent-disabled": {
+		"value": "rgb(224, 224, 224)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbdeab89e77b9b69e530",
+				"type": "Color"
+			}
+		}
+	},
+	"theme-fg-on-disabled": {
+		"value": "rgb(117, 117, 117)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbdf66c3667b47684378",
+				"type": "Color"
+			}
+		}
+	},
+	"theme-fg-disabled": {
+		"value": "rgb(189, 189, 189)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbdfbf1e147c028ad882",
+				"type": "Color"
+			}
+		}
+	},
+	"theme-fg-opacity-90": {
+		"value": "rgba(255, 255, 255, 0.9)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbdf2d449d0f4d829add",
+				"type": "Color"
+			}
+		}
+	},
+	"theme-fg-opacity-80": {
+		"value": "rgba(255, 255, 255, 0.8)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbe0c9db857c3f2bc1cc",
+				"type": "Color"
+			}
+		}
+	},
+	"theme-fg-opacity-70": {
+		"value": "rgba(255, 255, 255, 0.7)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbe0cc52657ab43cd649",
+				"type": "Color"
+			}
+		}
+	},
+	"theme-fg-opacity-60": {
+		"value": "rgba(255, 255, 255, 0.6)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbe0c9db857c3f2bc1d2",
+				"type": "Color"
+			}
+		}
+	},
+	"theme-fg-opacity-50": {
+		"value": "rgba(255, 255, 255, 0.5)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbe00db95b7bd66c81d0",
+				"type": "Color"
+			}
+		}
+	},
+	"theme-fg-opacity-40": {
+		"value": "rgba(255, 255, 255, 0.4)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbe07035417bf10e2d56",
+				"type": "Color"
+			}
+		}
+	},
+	"theme-fg-opacity-30": {
+		"value": "rgba(255, 255, 255, 0.3)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbe10db95b7bd66c81d6",
+				"type": "Color"
+			}
+		}
+	},
+	"theme-fg-opacity-20": {
+		"value": "rgba(255, 255, 255, 0.2)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbe1ac3f1f7ba0e13523",
+				"type": "Color"
+			}
+		}
+	},
+	"theme-fg-opacity-10": {
+		"value": "rgba(255, 255, 255, 0.1)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbe15b28d97be4b19262",
+				"type": "Color"
+			}
+		}
+	},
+	"theme-fg-opacity-5": {
+		"value": "rgba(255, 255, 255, 0.05)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbe140ee3f7af872d2b4",
+				"type": "Color"
+			}
+		}
+	},
+	"theme-fg-opacity-1": {
+		"value": "rgba(255, 255, 255, 0.01)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbe107a74b10325574b5",
+				"type": "Color"
+			}
+		}
+	},
+	"theme-bg-muted": {
+		"value": "rgb(224, 224, 224)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbe1df12907bfd2f2145",
+				"type": "Color"
+			}
+		}
+	},
+	"theme-bg-subtle": {
+		"value": "rgb(238, 238, 238)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbe2cc52657ab43cd65e",
+				"type": "Color"
+			}
+		}
+	},
+	"theme-overlay-bg": {
+		"value": "rgb(23, 23, 23)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbe20db95b7bd66c81e6",
+				"type": "Color"
+			}
+		}
+	},
+	"theme-warning-default": {
+		"value": "rgb(179, 131, 39)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbe2234def0fd5f14b87",
+				"type": "Color"
+			}
+		}
+	},
+	"theme-warning-subtle": {
+		"value": "rgb(255, 248, 235)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbe25b28d97be4b19270",
+				"type": "Color"
+			}
+		}
+	},
+	"theme-warning-muted": {
+		"value": "rgb(255, 228, 175)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbe3c9db857c3f2bc1ea",
+				"type": "Color"
+			}
+		}
+	},
+	"theme-warning-emphasis": {
+		"value": "rgb(255, 187, 56)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbe340ee3f7af872d2c4",
+				"type": "Color"
+			}
+		}
+	},
+	"theme-warning-on-warning": {
+		"value": "rgb(23, 23, 23)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbe3234def0fd5f14b8c",
+				"type": "Color"
+			}
+		}
+	},
+	"theme-info-default": {
+		"value": "rgb(49, 66, 196)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbe3c65f8c10598d1830",
+				"type": "Color"
+			}
+		}
+	},
+	"theme-info-subtle": {
+		"value": "rgb(216, 221, 253)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbe31a4dca7b76de990e",
+				"type": "Color"
+			}
+		}
+	},
+	"theme-info-muted": {
+		"value": "rgb(139, 152, 249)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbe4c65f8c10598d1837",
+				"type": "Color"
+			}
+		}
+	},
+	"theme-info-emphasis": {
+		"value": "rgb(61, 83, 245)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbe4f774e47c6de4d88a",
+				"type": "Color"
+			}
+		}
+	},
+	"theme-info-on-info": {
+		"value": "rgb(255, 255, 255)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbe42f98b67bc04e77a6",
+				"type": "Color"
+			}
+		}
+	},
+	"theme-error-default": {
+		"value": "rgb(174, 4, 4)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbe42f98b67bc04e77a9",
+				"type": "Color"
+			}
+		}
+	},
+	"theme-error-subtle": {
+		"value": "rgb(253, 145, 145)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbe45d52820ed0abd8f8",
+				"type": "Color"
+			}
+		}
+	},
+	"theme-error-muted": {
+		"value": "rgb(250, 25, 25)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbe5d7ffa70fa2d2ffdd",
+				"type": "Color"
+			}
+		}
+	},
+	"theme-error-emphasis": {
+		"value": "rgb(229, 5, 5)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbe5661e2f7b24112213",
+				"type": "Color"
+			}
+		}
+	},
+	"theme-error-on-error": {
+		"value": "rgb(255, 255, 255)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbe50811457af1b03330",
+				"type": "Color"
+			}
+		}
+	},
+	"theme-success-subtle": {
+		"value": "rgb(232, 246, 238)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbe5ac3f1f7ba0e13574",
+				"type": "Color"
+			}
+		}
+	},
+	"theme-success-default": {
+		"value": "rgb(17, 118, 61)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbe55cc5fd7b25107da4",
+				"type": "Color"
+			}
+		}
+	},
+	"theme-success-muted": {
+		"value": "rgb(93, 195, 137)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbe67035417bf10e2d7e",
+				"type": "Color"
+			}
+		}
+	},
+	"theme-success-emphasis": {
+		"value": "rgb(24, 169, 87)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbe64535830ef1cdde58",
+				"type": "Color"
+			}
+		}
+	},
+	"theme-success-on-success": {
+		"value": "rgb(255, 255, 255)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbe6d49adb100cac7894",
+				"type": "Color"
+			}
+		}
+	},
+	"theme-input-text": {
+		"value": "rgb(66, 66, 66)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbe638ef057b471d7df9",
+				"type": "Color"
+			}
+		}
+	},
+	"theme-input-border-disabled": {
+		"value": "rgb(238, 238, 238)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbe649505a0ff74d82f6",
+				"type": "Color"
+			}
+		}
+	},
+	"theme-input-fg-disabled": {
+		"value": "rgb(224, 224, 224)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbe7df12907bfd2f2175",
+				"type": "Color"
+			}
+		}
+	},
+	"theme-shadow-default": {
+		"value": "rgb(48, 49, 51)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbe7234def0fd5f14bab",
+				"type": "Color"
+			}
+		}
+	},
+	"colors-black": {
+		"value": "rgb(23, 23, 23)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbe71e1b840e66728edb",
+				"type": "Color"
+			}
+		}
+	},
+	"colors-mint-50": {
+		"value": "rgb(249, 253, 254)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbe70db95b7bd66c8215",
+				"type": "Color"
+			}
+		}
+	},
+	"colors-mint-100": {
+		"value": "rgb(244, 250, 253)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbe7a62e3e7c4ceeb6e4",
+				"type": "Color"
+			}
+		}
+	},
+	"colors-mint-200": {
+		"value": "rgb(233, 246, 250)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbe82d449d0f4d829b2d",
+				"type": "Color"
+			}
+		}
+	},
+	"colors-mint-300": {
+		"value": "rgb(221, 241, 248)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbe8a62e3e7c4ceeb6e8",
+				"type": "Color"
+			}
+		}
+	},
+	"colors-mint-400": {
+		"value": "rgb(210, 237, 245)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbe8a37b8b7c24dcd8bf",
+				"type": "Color"
+			}
+		}
+	},
+	"colors-mint-500": {
+		"value": "rgb(199, 232, 243)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbe80db95b7bd66c821f",
+				"type": "Color"
+			}
+		}
+	},
+	"colors-mint-600": {
+		"value": "rgb(159, 186, 194)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbe80811457af1b03353",
+				"type": "Color"
+			}
+		}
+	},
+	"colors-mint-700": {
+		"value": "rgb(119, 139, 146)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbe811bf4a0e79ad3e9a",
+				"type": "Color"
+			}
+		}
+	},
+	"colors-mint-800": {
+		"value": "rgb(80, 93, 97)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbe9b34df27b691873c1",
+				"type": "Color"
+			}
+		}
+	},
+	"colors-mint-900": {
+		"value": "rgb(40, 46, 49)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbe949505a0ff74d830d",
+				"type": "Color"
+			}
+		}
+	},
+	"colors-mint-950": {
+		"value": "rgb(23, 26, 28)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbe9a325107ad7198166",
+				"type": "Color"
+			}
+		}
+	},
+	"colors-green-50": {
+		"value": "rgb(244, 251, 247)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbe92f98b67bc04e77dd",
+				"type": "Color"
+			}
+		}
+	},
+	"colors-green-100": {
+		"value": "rgb(232, 246, 238)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbe9d7ffa70fa2d30008",
+				"type": "Color"
+			}
+		}
+	},
+	"colors-green-200": {
+		"value": "rgb(209, 238, 221)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbea07a74b10325575f7",
+				"type": "Color"
+			}
+		}
+	},
+	"colors-green-300": {
+		"value": "rgb(163, 221, 188)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbea0db95b7bd66c8230",
+				"type": "Color"
+			}
+		}
+	},
+	"colors-green-400": {
+		"value": "rgb(93, 195, 137)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbeaab89e77b9b69e5b4",
+				"type": "Color"
+			}
+		}
+	},
+	"colors-green-500": {
+		"value": "rgb(24, 169, 87)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbeac90fa17aa3efa3c7",
+				"type": "Color"
+			}
+		}
+	},
+	"colors-green-600": {
+		"value": "rgb(17, 118, 61)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbeac9db857c3f2bc233",
+				"type": "Color"
+			}
+		}
+	},
+	"colors-green-700": {
+		"value": "rgb(10, 68, 35)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbeb5d52820ed0abd934",
+				"type": "Color"
+			}
+		}
+	},
+	"colors-green-800": {
+		"value": "rgb(5, 34, 17)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbeb0dfd7e7b024b1feb",
+				"type": "Color"
+			}
+		}
+	},
+	"colors-green-900": {
+		"value": "rgb(2, 17, 9)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbeb2d449d0f4d829b51",
+				"type": "Color"
+			}
+		}
+	},
+	"colors-green-950": {
+		"value": "rgb(1, 9, 5)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbebac3f1f7ba0e1359e",
+				"type": "Color"
+			}
+		}
+	},
+	"colors-yellow-50": {
+		"value": "rgb(255, 251, 245)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbeb86e0aa7b0315a4cd",
+				"type": "Color"
+			}
+		}
+	},
+	"colors-yellow-100": {
+		"value": "rgb(255, 248, 235)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbee66c3667b476844ee",
+				"type": "Color"
+			}
+		}
+	},
+	"colors-yellow-200": {
+		"value": "rgb(255, 241, 215)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbee49505a0ff74d8339",
+				"type": "Color"
+			}
+		}
+	},
+	"colors-yellow-300": {
+		"value": "rgb(255, 228, 175)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbeec9db857c3f2bc24c",
+				"type": "Color"
+			}
+		}
+	},
+	"colors-yellow-400": {
+		"value": "rgb(255, 207, 116)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbeefdfbe97b680c82f9",
+				"type": "Color"
+			}
+		}
+	},
+	"colors-yellow-500": {
+		"value": "rgb(255, 187, 56)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbee5d52820ed0abd95c",
+				"type": "Color"
+			}
+		}
+	},
+	"colors-yellow-600": {
+		"value": "rgb(179, 131, 39)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbefbf1e147c028ad910",
+				"type": "Color"
+			}
+		}
+	},
+	"colors-yellow-700": {
+		"value": "rgb(102, 75, 22)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbef2f98b67bc04e7969",
+				"type": "Color"
+			}
+		}
+	},
+	"colors-yellow-800": {
+		"value": "rgb(51, 37, 11)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbef9f835c7bc2f9bc49",
+				"type": "Color"
+			}
+		}
+	},
+	"colors-yellow-900": {
+		"value": "rgb(25, 19, 6)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbef07a74b1032557618",
+				"type": "Color"
+			}
+		}
+	},
+	"colors-yellow-950": {
+		"value": "rgb(12, 9, 3)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbefcc52657ab43cd6e6",
+				"type": "Color"
+			}
+		}
+	},
+	"colors-red-50": {
+		"value": "rgb(253, 165, 165)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbef40ee3f7af872d342",
+				"type": "Color"
+			}
+		}
+	},
+	"colors-red-100": {
+		"value": "rgb(253, 145, 145)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbf086e0aa7b0315a500",
+				"type": "Color"
+			}
+		}
+	},
+	"colors-red-200": {
+		"value": "rgb(252, 105, 105)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbf02d449d0f4d829b82",
+				"type": "Color"
+			}
+		}
+	},
+	"colors-red-300": {
+		"value": "rgb(251, 65, 65)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbf0df12907bfd2f21bd",
+				"type": "Color"
+			}
+		}
+	},
+	"colors-red-400": {
+		"value": "rgb(250, 25, 25)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbf03ef2f10e6d75a5ba",
+				"type": "Color"
+			}
+		}
+	},
+	"colors-red-500": {
+		"value": "rgb(229, 5, 5)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbf00cabab7bc90673b1",
+				"type": "Color"
+			}
+		}
+	},
+	"colors-red-600": {
+		"value": "rgb(174, 4, 4)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbf1c9db857c3f2bc268",
+				"type": "Color"
+			}
+		}
+	},
+	"colors-red-700": {
+		"value": "rgb(119, 3, 3)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbf1a37b8b7c24dcd914",
+				"type": "Color"
+			}
+		}
+	},
+	"colors-red-800": {
+		"value": "rgb(64, 1, 1)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbf149505a0ff74d8357",
+				"type": "Color"
+			}
+		}
+	},
+	"colors-red-900": {
+		"value": "rgb(9, 0, 0)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbf107a74b10325576eb",
+				"type": "Color"
+			}
+		}
+	},
+	"colors-red-950": {
+		"value": "rgb(9, 1, 3)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbf20cabab7bc90673bb",
+				"type": "Color"
+			}
+		}
+	},
+	"colors-grey-50": {
+		"value": "rgb(252, 252, 252)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbf32f98b67bc04e799c",
+				"type": "Color"
+			}
+		}
+	},
+	"colors-grey-200": {
+		"value": "rgb(238, 238, 238)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbf3ac3f1f7ba0e135f4",
+				"type": "Color"
+			}
+		}
+	},
+	"colors-grey-100": {
+		"value": "rgb(245, 245, 245)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbf386e0aa7b0315a52e",
+				"type": "Color"
+			}
+		}
+	},
+	"colors-grey-300": {
+		"value": "rgb(224, 224, 224)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbf42f21197b8a099597",
+				"type": "Color"
+			}
+		}
+	},
+	"colors-grey-400": {
+		"value": "rgb(189, 189, 189)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbf42d449d0f4d829ba5",
+				"type": "Color"
+			}
+		}
+	},
+	"colors-grey-500": {
+		"value": "rgb(158, 158, 158)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbf4ab89e77b9b69e60a",
+				"type": "Color"
+			}
+		}
+	},
+	"colors-grey-600": {
+		"value": "rgb(117, 117, 117)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbf4125d350e98326e43",
+				"type": "Color"
+			}
+		}
+	},
+	"colors-grey-700": {
+		"value": "rgb(97, 97, 97)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbf495d6627be19af8ec",
+				"type": "Color"
+			}
+		}
+	},
+	"colors-grey-800": {
+		"value": "rgb(66, 66, 66)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbf5cc52657ab43cd718",
+				"type": "Color"
+			}
+		}
+	},
+	"colors-grey-900": {
+		"value": "rgb(50, 50, 50)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbf5cc52657ab43cd71b",
+				"type": "Color"
+			}
+		}
+	},
+	"colors-blue-50": {
+		"value": "rgb(236, 238, 254)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbf5d49adb100cac7919",
+				"type": "Color"
+			}
+		}
+	},
+	"colors-blue-100": {
+		"value": "rgb(216, 221, 253)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbf56e1fa70f13bae873",
+				"type": "Color"
+			}
+		}
+	},
+	"colors-blue-200": {
+		"value": "rgb(177, 186, 251)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbf5ab89e77b9b69e61e",
+				"type": "Color"
+			}
+		}
+	},
+	"colors-blue-300": {
+		"value": "rgb(139, 152, 249)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbf666c3667b4768452f",
+				"type": "Color"
+			}
+		}
+	},
+	"colors-blue-400": {
+		"value": "rgb(100, 117, 247)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbf60db95b7bd66c829a",
+				"type": "Color"
+			}
+		}
+	},
+	"colors-blue-500": {
+		"value": "rgb(61, 83, 245)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbf640ee3f7af872d515",
+				"type": "Color"
+			}
+		}
+	},
+	"colors-blue-600": {
+		"value": "rgb(49, 66, 196)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbf6cc52657ab43cd72b",
+				"type": "Color"
+			}
+		}
+	},
+	"colors-blue-700": {
+		"value": "rgb(37, 50, 147)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbf7a62e3e7c4ceeb76b",
+				"type": "Color"
+			}
+		}
+	},
+	"colors-blue-800": {
+		"value": "rgb(24, 33, 98)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbf70811457af1b033e0",
+				"type": "Color"
+			}
+		}
+	},
+	"colors-blue-900": {
+		"value": "rgb(12, 17, 49)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbf7f774e47c6de4d935",
+				"type": "Color"
+			}
+		}
+	},
+	"colors-blue-950": {
+		"value": "rgb(6, 8, 24)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbf76e1fa70f13bae887",
+				"type": "Color"
+			}
+		}
+	},
+	"colors-purple-50": {
+		"value": "rgb(238, 236, 251)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbf75b28d97be4b1965a",
+				"type": "Color"
+			}
+		}
+	},
+	"colors-purple-100": {
+		"value": "rgb(221, 217, 247)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbf8a37b8b7c24dcd9c9",
+				"type": "Color"
+			}
+		}
+	},
+	"colors-purple-200": {
+		"value": "rgb(187, 178, 239)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbf886e0aa7b0315a56b",
+				"type": "Color"
+			}
+		}
+	},
+	"colors-purple-300": {
+		"value": "rgb(154, 140, 232)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbf8a325107ad719836f",
+				"type": "Color"
+			}
+		}
+	},
+	"colors-purple-400": {
+		"value": "rgb(120, 101, 224)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbf8c65f8c10598d18ed",
+				"type": "Color"
+			}
+		}
+	},
+	"colors-purple-500": {
+		"value": "rgb(86, 63, 216)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbf93ef2f10e6d75a619",
+				"type": "Color"
+			}
+		}
+	},
+	"colors-purple-600": {
+		"value": "rgb(69, 50, 173)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbf9fdfbe97b680c8503",
+				"type": "Color"
+			}
+		}
+	},
+	"colors-purple-700": {
+		"value": "rgb(52, 38, 130)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbfac65f8c10598d18f6",
+				"type": "Color"
+			}
+		}
+	},
+	"colors-purple-800": {
+		"value": "rgb(34, 25, 86)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbfa86e0aa7b0315a57f",
+				"type": "Color"
+			}
+		}
+	},
+	"colors-purple-900": {
+		"value": "rgb(17, 13, 43)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbfa2f21197b8a0995de",
+				"type": "Color"
+			}
+		}
+	},
+	"colors-purple-950": {
+		"value": "rgb(9, 6, 22)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbfbd7ffa70fa2d300af",
+				"type": "Color"
+			}
+		}
+	},
+	"colors-orange-50": {
+		"value": "rgb(253, 227, 207)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbfbb34df27b6918756c",
+				"type": "Color"
+			}
+		}
+	},
+	"colors-orange-100": {
+		"value": "rgb(252, 215, 187)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbfc38ef057b471d7f60",
+				"type": "Color"
+			}
+		}
+	},
+	"colors-orange-200": {
+		"value": "rgb(250, 193, 148)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbfc234def0fd5f14d07",
+				"type": "Color"
+			}
+		}
+	},
+	"colors-orange-300": {
+		"value": "rgb(248, 170, 109)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbfc11bf4a0e79ad3f61",
+				"type": "Color"
+			}
+		}
+	},
+	"colors-orange-400": {
+		"value": "rgb(247, 147, 70)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbfd6e1fa70f13bae8ba",
+				"type": "Color"
+			}
+		}
+	},
+	"colors-orange-500": {
+		"value": "rgb(245, 124, 31)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbfe125d350e98326e9e",
+				"type": "Color"
+			}
+		}
+	},
+	"colors-orange-600": {
+		"value": "rgb(211, 97, 9)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbfe15857f7c1e51934f",
+				"type": "Color"
+			}
+		}
+	},
+	"colors-orange-700": {
+		"value": "rgb(157, 72, 7)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbfe661e2f7b241122e5",
+				"type": "Color"
+			}
+		}
+	},
+	"colors-orange-800": {
+		"value": "rgb(103, 47, 5)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbfea37b8b7c24dcda09",
+				"type": "Color"
+			}
+		}
+	},
+	"colors-orange-900": {
+		"value": "rgb(49, 23, 2)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afbffc65f8c10598d192a",
+				"type": "Color"
+			}
+		}
+	}
+}

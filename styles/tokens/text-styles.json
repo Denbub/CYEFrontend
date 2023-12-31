@@ -1,0 +1,890 @@
+{
+	"typography-button-large-bold": {
+		"value": {
+			"font": {
+				"family": "Poppins",
+				"size": 16,
+				"weight": 600,
+				"stretch": 1
+			},
+			"line_height": 24,
+			"letter_spacing": 0.48
+		},
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640af7cdb8f1220f348ae132",
+				"type": "TextStyle"
+			}
+		}
+	},
+	"typography-lead-regular": {
+		"value": {
+			"font": {
+				"family": "Poppins",
+				"size": 28,
+				"weight": 400,
+				"stretch": 1
+			},
+			"line_height": 42
+		},
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640af7ceb34df27b69180aa1",
+				"type": "TextStyle"
+			}
+		}
+	},
+	"typography-input-large-regular": {
+		"value": {
+			"font": {
+				"family": "Poppins",
+				"size": 19,
+				"weight": 400,
+				"stretch": 1
+			},
+			"line_height": 28.5
+		},
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640af7cf1e1b840e667214a9",
+				"type": "TextStyle"
+			}
+		}
+	},
+	"typography-small-bold": {
+		"value": {
+			"font": {
+				"family": "Poppins",
+				"size": 16,
+				"weight": 700,
+				"stretch": 1
+			},
+			"line_height": 24
+		},
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640af7cfc65f8c10598cbc0e",
+				"type": "TextStyle"
+			}
+		}
+	},
+	"typography-caption-bold": {
+		"value": {
+			"font": {
+				"family": "Poppins",
+				"size": 13,
+				"weight": 700,
+				"stretch": 1
+			},
+			"line_height": 19.5
+		},
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640af7d007a74b1032552fc8",
+				"type": "TextStyle"
+			}
+		}
+	},
+	"typography-button-xlarge-bold": {
+		"value": {
+			"font": {
+				"family": "Poppins",
+				"size": 23,
+				"weight": 600,
+				"stretch": 1
+			},
+			"line_height": 34.5,
+			"letter_spacing": 0.69
+		},
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640af7d05b28d97be4b0eb39",
+				"type": "TextStyle"
+			}
+		}
+	},
+	"typography-button-large-regular": {
+		"value": {
+			"font": {
+				"family": "Poppins",
+				"size": 16,
+				"weight": 400,
+				"stretch": 1
+			},
+			"line_height": 24,
+			"letter_spacing": 0.48
+		},
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640af7d2bf1e147c028a75d3",
+				"type": "TextStyle"
+			}
+		}
+	},
+	"typography-headline-3-regular": {
+		"value": {
+			"font": {
+				"family": "Poppins",
+				"size": 41,
+				"weight": 400,
+				"stretch": 1
+			},
+			"line_height": 45.100000977516174,
+			"letter_spacing": -0.41
+		},
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640af7d22f98b67bc04e2166",
+				"type": "TextStyle"
+			}
+		}
+	},
+	"typography-caption-regular": {
+		"value": {
+			"font": {
+				"family": "Poppins",
+				"size": 13,
+				"weight": 400,
+				"stretch": 1
+			},
+			"line_height": 19.5
+		},
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640af7d6125d350e9831d9a6",
+				"type": "TextStyle"
+			}
+		}
+	},
+	"typography-xsmall-regular": {
+		"value": {
+			"font": {
+				"family": "Poppins",
+				"size": 11,
+				"weight": 400,
+				"stretch": 1
+			},
+			"line_height": 16.5
+		},
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afa15b34df27b69184a22",
+				"type": "TextStyle"
+			}
+		}
+	},
+	"typography-headline-2-bold": {
+		"value": {
+			"font": {
+				"family": "Poppins",
+				"size": 49,
+				"weight": 700,
+				"stretch": 1
+			},
+			"line_height": 53.90000116825104,
+			"letter_spacing": -0.49
+		},
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afa160cabab7bc9065622",
+				"type": "TextStyle"
+			}
+		}
+	},
+	"typography-lead-bold": {
+		"value": {
+			"font": {
+				"family": "Poppins",
+				"size": 28,
+				"weight": 700,
+				"stretch": 1
+			},
+			"line_height": 42
+		},
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afa169f835c7bc2f96ffe",
+				"type": "TextStyle"
+			}
+		}
+	},
+	"typography-small-regular": {
+		"value": {
+			"font": {
+				"family": "Poppins",
+				"size": 16,
+				"weight": 400,
+				"stretch": 1
+			},
+			"line_height": 24
+		},
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afa172f98b67bc04e55aa",
+				"type": "TextStyle"
+			}
+		}
+	},
+	"typography-colossus-bold": {
+		"value": {
+			"font": {
+				"family": "Poppins",
+				"size": 122,
+				"weight": 700,
+				"stretch": 1
+			},
+			"line_height": 134.20000290870667,
+			"letter_spacing": -1.22
+		},
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afc0ec65f8c10598d1bff",
+				"type": "TextStyle"
+			}
+		}
+	},
+	"typography-colossus-regular": {
+		"value": {
+			"font": {
+				"family": "Poppins",
+				"size": 122,
+				"weight": 400,
+				"stretch": 1
+			},
+			"line_height": 134.20000290870667,
+			"letter_spacing": -1.22
+		},
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afc0ed49adb100cac79e3",
+				"type": "TextStyle"
+			}
+		}
+	},
+	"typography-uber-bold": {
+		"value": {
+			"font": {
+				"family": "Poppins",
+				"size": 102,
+				"weight": 700,
+				"stretch": 1
+			},
+			"line_height": 112.2000024318695,
+			"letter_spacing": -1.02
+		},
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afc0fcc52657ab43cdf32",
+				"type": "TextStyle"
+			}
+		}
+	},
+	"typography-uber-regular": {
+		"value": {
+			"font": {
+				"family": "Poppins",
+				"size": 102,
+				"weight": 400,
+				"stretch": 1
+			},
+			"line_height": 112.2000024318695,
+			"letter_spacing": -1.02
+		},
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afc0f86e0aa7b0315a83d",
+				"type": "TextStyle"
+			}
+		}
+	},
+	"typography-hero-bold": {
+		"value": {
+			"font": {
+				"family": "Poppins",
+				"size": 85,
+				"weight": 700,
+				"stretch": 1
+			},
+			"line_height": 93.50000202655792,
+			"letter_spacing": -0.85
+		},
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afc1086e0aa7b0315a840",
+				"type": "TextStyle"
+			}
+		}
+	},
+	"typography-hero-regular": {
+		"value": {
+			"font": {
+				"family": "Poppins",
+				"size": 85,
+				"weight": 400,
+				"stretch": 1
+			},
+			"line_height": 93.50000202655792,
+			"letter_spacing": -0.85
+		},
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afc10a62e3e7c4ceeb8e6",
+				"type": "TextStyle"
+			}
+		}
+	},
+	"typography-display-bold": {
+		"value": {
+			"font": {
+				"family": "Poppins",
+				"size": 71,
+				"weight": 700,
+				"stretch": 1
+			},
+			"line_height": 78.10000169277191,
+			"letter_spacing": -0.71
+		},
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afc105cc5fd7b251082bb",
+				"type": "TextStyle"
+			}
+		}
+	},
+	"typography-display-regular": {
+		"value": {
+			"font": {
+				"family": "Poppins",
+				"size": 71,
+				"weight": 400,
+				"stretch": 1
+			},
+			"line_height": 78.10000169277191,
+			"letter_spacing": -0.71
+		},
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afc10ac3f1f7ba0e13791",
+				"type": "TextStyle"
+			}
+		}
+	},
+	"typography-headline-1-bold": {
+		"value": {
+			"font": {
+				"family": "Poppins",
+				"size": 59,
+				"weight": 700,
+				"stretch": 1
+			},
+			"line_height": 64.90000140666962,
+			"letter_spacing": -0.59
+		},
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afc11125d350e98326f3c",
+				"type": "TextStyle"
+			}
+		}
+	},
+	"typography-headline-1-regular": {
+		"value": {
+			"font": {
+				"family": "Poppins",
+				"size": 59,
+				"weight": 400,
+				"stretch": 1
+			},
+			"line_height": 64.90000140666962,
+			"letter_spacing": -0.59
+		},
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afc110dfd7e7b024b219b",
+				"type": "TextStyle"
+			}
+		}
+	},
+	"typography-headline-2-regular": {
+		"value": {
+			"font": {
+				"family": "Poppins",
+				"size": 49,
+				"weight": 400,
+				"stretch": 1
+			},
+			"line_height": 53.90000116825104,
+			"letter_spacing": -0.49
+		},
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afc120db95b7bd66c836f",
+				"type": "TextStyle"
+			}
+		}
+	},
+	"typography-headline-3-bold": {
+		"value": {
+			"font": {
+				"family": "Poppins",
+				"size": 41,
+				"weight": 700,
+				"stretch": 1
+			},
+			"line_height": 45.100000977516174,
+			"letter_spacing": -0.41
+		},
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afc120dfd7e7b024b21a1",
+				"type": "TextStyle"
+			}
+		}
+	},
+	"typography-headline-4-bold": {
+		"value": {
+			"font": {
+				"family": "Poppins",
+				"size": 34,
+				"weight": 700,
+				"stretch": 1
+			},
+			"line_height": 44.19999837875366,
+			"letter_spacing": -0.34
+		},
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afc127035417bf10e3123",
+				"type": "TextStyle"
+			}
+		}
+	},
+	"typography-headline-4-regular": {
+		"value": {
+			"font": {
+				"family": "Poppins",
+				"size": 34,
+				"weight": 400,
+				"stretch": 1
+			},
+			"line_height": 44.19999837875366,
+			"letter_spacing": -0.34
+		},
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afc12661e2f7b241124a3",
+				"type": "TextStyle"
+			}
+		}
+	},
+	"typography-headline-5-bold": {
+		"value": {
+			"font": {
+				"family": "Poppins",
+				"size": 23,
+				"weight": 700,
+				"stretch": 1
+			},
+			"line_height": 29.899998903274536,
+			"letter_spacing": -0.23
+		},
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afc136e1fa70f13baeaf3",
+				"type": "TextStyle"
+			}
+		}
+	},
+	"typography-headline-5-regular": {
+		"value": {
+			"font": {
+				"family": "Poppins",
+				"size": 23,
+				"weight": 400,
+				"stretch": 1
+			},
+			"line_height": 29.899998903274536,
+			"letter_spacing": -0.23
+		},
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afc143ef2f10e6d75a788",
+				"type": "TextStyle"
+			}
+		}
+	},
+	"typography-body-bold": {
+		"value": {
+			"font": {
+				"family": "Poppins",
+				"size": 19,
+				"weight": 700,
+				"stretch": 1
+			},
+			"line_height": 28.5
+		},
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afc15d49adb100cac7cc1",
+				"type": "TextStyle"
+			}
+		}
+	},
+	"typography-xsmall-bold": {
+		"value": {
+			"font": {
+				"family": "Poppins",
+				"size": 11,
+				"weight": 700,
+				"stretch": 1
+			},
+			"line_height": 16.5
+		},
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afc155cc5fd7b251082e7",
+				"type": "TextStyle"
+			}
+		}
+	},
+	"typography-tiny-bold": {
+		"value": {
+			"font": {
+				"family": "Poppins",
+				"size": 9,
+				"weight": 700,
+				"stretch": 1
+			},
+			"line_height": 13.5
+		},
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afc15bf1e147c028adc47",
+				"type": "TextStyle"
+			}
+		}
+	},
+	"typography-tiny-regular": {
+		"value": {
+			"font": {
+				"family": "Poppins",
+				"size": 9,
+				"weight": 400,
+				"stretch": 1
+			},
+			"line_height": 13.5
+		},
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afc1666c3667b4768464a",
+				"type": "TextStyle"
+			}
+		}
+	},
+	"typography-button-xlarge-regular": {
+		"value": {
+			"font": {
+				"family": "Poppins",
+				"size": 23,
+				"weight": 400,
+				"stretch": 1
+			},
+			"line_height": 34.5,
+			"letter_spacing": 0.69
+		},
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afc1766c3667b47684654",
+				"type": "TextStyle"
+			}
+		}
+	},
+	"typography-button-normal-bold": {
+		"value": {
+			"font": {
+				"family": "Poppins",
+				"size": 13,
+				"weight": 600,
+				"stretch": 1
+			},
+			"line_height": 19.5,
+			"letter_spacing": 0.39
+		},
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afc1738ef057b471d8664",
+				"type": "TextStyle"
+			}
+		}
+	},
+	"typography-button-normal-regular": {
+		"value": {
+			"font": {
+				"family": "Poppins",
+				"size": 13,
+				"weight": 400,
+				"stretch": 1
+			},
+			"line_height": 19.5,
+			"letter_spacing": 0.39
+		},
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "640af697cc52657ab43c3bd7",
+					"name": "Click Your Event",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "640afc18b8f1220f348b4490",
+				"type": "TextStyle"
+			}
+		}
+	}
+}

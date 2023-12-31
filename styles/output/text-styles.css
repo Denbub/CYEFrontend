@@ -1,0 +1,252 @@
+.button-large-bold {
+	font-family: Poppins;
+	font-size: 16px;
+	font-weight: 600;
+	line-height: 24px;
+	letter-spacing: 0.48px;
+}
+.lead-regular {
+	font-family: Poppins;
+	font-size: 28px;
+	font-weight: 400;
+	line-height: 42px;
+	letter-spacing: undefinedpx;
+}
+.input-large-regular {
+	font-family: Poppins;
+	font-size: 19px;
+	font-weight: 400;
+	line-height: 28.5px;
+	letter-spacing: undefinedpx;
+}
+.small-bold {
+	font-family: Poppins;
+	font-size: 16px;
+	font-weight: 700;
+	line-height: 24px;
+	letter-spacing: undefinedpx;
+}
+.caption-bold {
+	font-family: Poppins;
+	font-size: 13px;
+	font-weight: 700;
+	line-height: 19.5px;
+	letter-spacing: undefinedpx;
+}
+.button-xlarge-bold {
+	font-family: Poppins;
+	font-size: 23px;
+	font-weight: 600;
+	line-height: 34.5px;
+	letter-spacing: 0.69px;
+}
+.button-large-regular {
+	font-family: Poppins;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 24px;
+	letter-spacing: 0.48px;
+}
+.headline-3-regular {
+	font-family: Poppins;
+	font-size: 41px;
+	font-weight: 400;
+	line-height: 45.100000977516174px;
+	letter-spacing: -0.41px;
+}
+.caption-regular {
+	font-family: Poppins;
+	font-size: 13px;
+	font-weight: 400;
+	line-height: 19.5px;
+	letter-spacing: undefinedpx;
+}
+.xsmall-regular {
+	font-family: Poppins;
+	font-size: 11px;
+	font-weight: 400;
+	line-height: 16.5px;
+	letter-spacing: undefinedpx;
+}
+.headline-2-bold {
+	font-family: Poppins;
+	font-size: 49px;
+	font-weight: 700;
+	line-height: 53.90000116825104px;
+	letter-spacing: -0.49px;
+}
+.lead-bold {
+	font-family: Poppins;
+	font-size: 28px;
+	font-weight: 700;
+	line-height: 42px;
+	letter-spacing: undefinedpx;
+}
+.small-regular {
+	font-family: Poppins;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 24px;
+	letter-spacing: undefinedpx;
+}
+.colossus-bold {
+	font-family: Poppins;
+	font-size: 122px;
+	font-weight: 700;
+	line-height: 134.20000290870667px;
+	letter-spacing: -1.22px;
+}
+.colossus-regular {
+	font-family: Poppins;
+	font-size: 122px;
+	font-weight: 400;
+	line-height: 134.20000290870667px;
+	letter-spacing: -1.22px;
+}
+.uber-bold {
+	font-family: Poppins;
+	font-size: 102px;
+	font-weight: 700;
+	line-height: 112.2000024318695px;
+	letter-spacing: -1.02px;
+}
+.uber-regular {
+	font-family: Poppins;
+	font-size: 102px;
+	font-weight: 400;
+	line-height: 112.2000024318695px;
+	letter-spacing: -1.02px;
+}
+.hero-bold {
+	font-family: Poppins;
+	font-size: 85px;
+	font-weight: 700;
+	line-height: 93.50000202655792px;
+	letter-spacing: -0.85px;
+}
+.hero-regular {
+	font-family: Poppins;
+	font-size: 85px;
+	font-weight: 400;
+	line-height: 93.50000202655792px;
+	letter-spacing: -0.85px;
+}
+.display-bold {
+	font-family: Poppins;
+	font-size: 71px;
+	font-weight: 700;
+	line-height: 78.10000169277191px;
+	letter-spacing: -0.71px;
+}
+.display-regular {
+	font-family: Poppins;
+	font-size: 71px;
+	font-weight: 400;
+	line-height: 78.10000169277191px;
+	letter-spacing: -0.71px;
+}
+.headline-1-bold {
+	font-family: Poppins;
+	font-size: 59px;
+	font-weight: 700;
+	line-height: 64.90000140666962px;
+	letter-spacing: -0.59px;
+}
+.headline-1-regular {
+	font-family: Poppins;
+	font-size: 59px;
+	font-weight: 400;
+	line-height: 64.90000140666962px;
+	letter-spacing: -0.59px;
+}
+.headline-2-regular {
+	font-family: Poppins;
+	font-size: 49px;
+	font-weight: 400;
+	line-height: 53.90000116825104px;
+	letter-spacing: -0.49px;
+}
+.headline-3-bold {
+	font-family: Poppins;
+	font-size: 41px;
+	font-weight: 700;
+	line-height: 45.100000977516174px;
+	letter-spacing: -0.41px;
+}
+.headline-4-bold {
+	font-family: Poppins;
+	font-size: 34px;
+	font-weight: 700;
+	line-height: 44.19999837875366px;
+	letter-spacing: -0.34px;
+}
+.headline-4-regular {
+	font-family: Poppins;
+	font-size: 34px;
+	font-weight: 400;
+	line-height: 44.19999837875366px;
+	letter-spacing: -0.34px;
+}
+.headline-5-bold {
+	font-family: Poppins;
+	font-size: 23px;
+	font-weight: 700;
+	line-height: 29.899998903274536px;
+	letter-spacing: -0.23px;
+}
+.headline-5-regular {
+	font-family: Poppins;
+	font-size: 23px;
+	font-weight: 400;
+	line-height: 29.899998903274536px;
+	letter-spacing: -0.23px;
+}
+.body-bold {
+	font-family: Poppins;
+	font-size: 19px;
+	font-weight: 700;
+	line-height: 28.5px;
+	letter-spacing: undefinedpx;
+}
+.xsmall-bold {
+	font-family: Poppins;
+	font-size: 11px;
+	font-weight: 700;
+	line-height: 16.5px;
+	letter-spacing: undefinedpx;
+}
+.tiny-bold {
+	font-family: Poppins;
+	font-size: 9px;
+	font-weight: 700;
+	line-height: 13.5px;
+	letter-spacing: undefinedpx;
+}
+.tiny-regular {
+	font-family: Poppins;
+	font-size: 9px;
+	font-weight: 400;
+	line-height: 13.5px;
+	letter-spacing: undefinedpx;
+}
+.button-xlarge-regular {
+	font-family: Poppins;
+	font-size: 23px;
+	font-weight: 400;
+	line-height: 34.5px;
+	letter-spacing: 0.69px;
+}
+.button-normal-bold {
+	font-family: Poppins;
+	font-size: 13px;
+	font-weight: 600;
+	line-height: 19.5px;
+	letter-spacing: 0.39px;
+}
+.button-normal-regular {
+	font-family: Poppins;
+	font-size: 13px;
+	font-weight: 400;
+	line-height: 19.5px;
+	letter-spacing: 0.39px;
+}
